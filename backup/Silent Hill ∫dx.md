@@ -34,5 +34,5 @@ Cannot write to disk. Drive may be full or write-protected...__
 
 > ›L2 Inventory: **NOTE(blank)**    **PHONE**    **SIG P320**    **9mmLuger-52**
 
-<!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"}## -->
+
 
